@@ -16,7 +16,7 @@
     		// HttpServeltRquest 타입을 갖는 객체가 자동 생성되고 그 주소를 request 참조
     		// HttpServeltRquest request = new HttpSevletRequset ...
     		
-    	//3. 로직처(업무 DB 연))
+    	//3. 로직처(업무 DB 연동))
     	
    
     %>
